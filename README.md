@@ -1,4 +1,5 @@
 # Sales Profitability Dashboard
+![Dashboard Preview](dashboard.png)
 Overview
 
 This project presents an interactive Excel dashboard developed to analyze sales performance and profitability across multiple business dimensions.
